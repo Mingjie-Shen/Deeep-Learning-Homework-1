@@ -1,5 +1,4 @@
 # Deeep-Learning-Homework-and-Practice
-echo "# Deeep-Learning-Homework-and-Practice" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
